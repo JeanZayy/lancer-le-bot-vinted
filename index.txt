@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alertes Vinted Stone Island</title>
+</head>
+<body>
+	<h1>Alertes Vinted Stone Island</h1>
+	<p>Cliquez sur le bouton pour lancer les alertes :</p>
+	<button onclick="runScript()">Lancer les alertes</button>
+
+	<script>
+		function runScript() {
+			// Insérez ici le code pour lancer le script Python
+		}
+	</script>
+</body>
+</html>
